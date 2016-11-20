@@ -1,0 +1,34 @@
+table.resultTable {
+	width: 100%;
+}
+
+td.resultTable {
+	border: #666 1px solid;
+}
+
+td.resultEdit {
+	border: #666 1px solid;
+	padding-right: 10px;
+}
+
+td.submit {
+	width: 50px;
+	text-align: center;
+}
+
+tr.resultTable {
+	cursor: pointer;
+}
+
+tr.resultEdit {
+	display: none;
+}
+
+span.resultTable {
+	display: inline-block;
+	border: #666 1px solid;
+}
+
+input.resultEdit {
+	margin-right: 10px;
+}

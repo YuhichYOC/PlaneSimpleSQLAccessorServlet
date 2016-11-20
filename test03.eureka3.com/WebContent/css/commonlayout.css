@@ -1,0 +1,63 @@
+div.centerContents {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+span.oneItem {
+	display: inline-block;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+}
+
+img.thumb {
+	width: 30%;
+	padding-left: 2em;
+}
+
+br.spacer {
+	height: 75px;
+	line-height: 75px;
+}
+
+form.bordered {
+	border: #666 1px solid;
+}
+
+div.innerContentsBordered {
+	border: #666 1px solid;
+}
+
+div.oneLineInSearchForm {
+	width: 100%;
+}
+
+span.oneItemInSearchForm1of5, span.oneItemInSearchForm3of5, span.oneItemInSearchForm5of5 {
+	display: inline-block;
+	width: 28%;
+}
+
+span.oneItemInSearchForm2of5, span.oneItemInSearchForm4of5 {
+	display: inline-block;
+	width: 5%;
+}
+
+span.gellaryMenu1of2 {
+	display: inline-block;
+	width: 55%;
+	height: 50px;
+	line-height: 50px;
+	margin: 0 auto;
+}
+
+span.gellaryMenu2of2 {
+	cursor: pointer;
+	display: inline-block;
+	width: 35%;
+	height: 50px;
+	line-height: 50px;
+	margin: 0 auto;
+	text-align: center;
+	border: #666 1px solid;
+}

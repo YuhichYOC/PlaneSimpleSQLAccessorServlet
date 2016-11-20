@@ -1,0 +1,24 @@
+table.resultTable {
+	width: 100%;
+}
+
+td.resultTable {
+	border: #666 1px solid;
+}
+
+td.resultEdit {
+	border: #666 1px solid;
+}
+
+td.submit {
+	width: 50px;
+	text-align: center;
+}
+
+tr.resultTable {
+	cursor: pointer;
+}
+
+tr.resultEdit {
+	display: none;
+}
